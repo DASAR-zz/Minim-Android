@@ -3,7 +3,7 @@ This is project contains part of Java Minim audio library which can be used on A
 
 This project contains whole [ddf.minim.analysis](http://code.compartmental.net/minim/javadoc/ddf/minim/analysis/package-summary.html) packege whith things like FFT, DFT and Beat Detection.
 
-# Convert Android PCM 16 bit audio to 32 bit interleaved float.
+## Convert Android PCM 16 bit audio to 32 bit interleaved float.
 
 ```java
 /**
