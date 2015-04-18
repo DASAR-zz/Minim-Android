@@ -1,5 +1,9 @@
 # Minim-Android
-This is project contains part of Java Minim audio library which can be used on Android.
+This is project contains **part** of Java Minim audio library which can be used on Android.
+
+**For now all classes with unsatisfied dependency removed.** 
+
+You can use this project with Android native classes like AudioRecorder or any other source of audio for analysis.
 
 This project contains whole [ddf.minim.analysis](http://code.compartmental.net/minim/javadoc/ddf/minim/analysis/package-summary.html) packege whith things like FFT, DFT and Beat Detection.
 
